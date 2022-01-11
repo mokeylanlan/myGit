@@ -1,0 +1,17 @@
+h1{
+  color:red;
+}
+li{
+color: black;
+background-color: skyblue;
+}
+body{
+  text-align: center;
+  width: 20%;
+  margin: 0 auto;
+}
+.tarea{
+  font-size: 20px;
+  line-height: 20px;
+  color: black;
+}
